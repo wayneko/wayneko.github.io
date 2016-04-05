@@ -18,14 +18,14 @@
       <description>
 
 &lt;div style=&#39;margin:0 auto;width:0px;height:0px;overflow:hidden;&#39;&gt;
-&lt;img src=&#34;http://h.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=cda076826a224f4a5399771739c7ab23/94cad1c8a786c9170065529dce3d70cf3bc7572b.jpg&#34; width=&#39;400&#39;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Logo.png&#34; width=&#39;400&#39;&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;前言:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;前言&lt;/h1&gt;
 
 &lt;p&gt;使用 FrameMaker 写作的小朋友经常会有这样的需求：一段文本已经应用了某种段落标签（Paragraph Tag）或字符标签（Character Tag），现在要改成另一种段落标签或字符标签。&lt;/p&gt;
 
-&lt;p&gt;例如，原来有个二级标题，段落标签是 _h2_，现在这个二级标题要降为三级标题，需要应用段落标签 _h3_。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
+&lt;p&gt;例如，原来有个二级标题，段落标签是 *h2*，现在这个二级标题要降为三级标题，需要应用段落标签 *h3*。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
 
 &lt;p&gt;现在问题来了，如果我要更改标签的段落或词语是几十个甚至上百个呢？当对一批旧文档应用新模板时，这是一个典型的需求。手动逐一更改显然是让人无法接受的。但版本 11 及以前的 FrameMaker 并没有批量更改标签的功能。幸运的是，我们可以利用一款 FrameMaker 插件来完成这项工作，这款插件的名字叫做 ChangeStyles。&lt;/p&gt;
 
@@ -51,7 +51,7 @@ ChangeStyles2.zip 文件下载到电脑上。&lt;/li&gt;
 &lt;li&gt;启动 FrameMaker。选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
 &lt;img src=&#34;http://c.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=cc7e26639752982201333dc7e7fa40ba/6609c93d70cf3bc71560d748d600baa1cd112a35.jpg&#34; alt=&#34;Image of Change Styles Menu&#34; /&gt;&lt;br /&gt;
 Change Styles 对话框出现。&lt;br /&gt;
-&lt;img src=&#34;http://e.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=fc3526b0ac18972ba73a04ced6fd40f8/342ac65c10385343d7d19d859413b07eca808873.jpg&#34; alt=&#34;Image of Change Styles Dialog Box&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_DB_ChangeStyles.png&#34; alt=&#34;Image of Change Styles Dialog Box&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;在 Change Styles 对话框的 Styles 区块中，按需采取以下操作：&lt;br /&gt;
 
 &lt;ul&gt;
@@ -72,7 +72,7 @@ b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新�
 &lt;ol&gt;
 &lt;li&gt;打开示例文件。&lt;br /&gt;
 示例文件显示在编辑窗口中。&lt;br /&gt;
-&lt;img src=&#34;http://f.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=157f5d9a0bf3d7ca08f63b72c22f8578/3ac79f3df8dcd10037fce285758b4710b9122f35.jpg&#34; alt=&#34;Image of Sample Document&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document.png&#34; alt=&#34;Image of Sample Document&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
 Change Styles 对话框出现。&lt;/li&gt;
 &lt;li&gt;在 Change Styles 对话框的 Change From 区块中：&lt;br /&gt;
