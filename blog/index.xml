@@ -17,15 +17,11 @@
       <guid>http://www.waynesvision.com/2016/04/05/fm-plugin-changestyles</guid>
       <description>
 
-&lt;div style=&#39;margin:0 auto;width:0px;height:0px;overflow:hidden;&#39;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Logo.png&#34; width=&#39;400&#39;&gt;
-&lt;/div&gt;
-
 &lt;h1 id=&#34;前言:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;前言&lt;/h1&gt;
 
 &lt;p&gt;使用 FrameMaker 写作的小朋友经常会有这样的需求：一段文本已经应用了某种段落标签（Paragraph Tag）或字符标签（Character Tag），现在要改成另一种段落标签或字符标签。&lt;/p&gt;
 
-&lt;p&gt;例如，原来有个二级标题，段落标签是 *h2*，现在这个二级标题要降为三级标题，需要应用段落标签 *h3*。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
+&lt;p&gt;例如，原来有个二级标题，段落标签是 &lt;em&gt;h2&lt;/em&gt; ，现在这个二级标题要降为三级标题，需要应用段落标签 &lt;em&gt;h3&lt;/em&gt;.。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
 
 &lt;p&gt;现在问题来了，如果我要更改标签的段落或词语是几十个甚至上百个呢？当对一批旧文档应用新模板时，这是一个典型的需求。手动逐一更改显然是让人无法接受的。但版本 11 及以前的 FrameMaker 并没有批量更改标签的功能。幸运的是，我们可以利用一款 FrameMaker 插件来完成这项工作，这款插件的名字叫做 ChangeStyles。&lt;/p&gt;
 
@@ -101,7 +97,7 @@ Change Styles 对话框出现。&lt;/li&gt;
 a. 从 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中选择要更改的标签 *emphasis*。&lt;br /&gt;
   &lt;img src=&#34;http://b.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=a7ca767a3a6d55fbc1c672265d12743b/4034970a304e251f1497fe5ca086c9177f3e5335.jpg&#34; alt=&#34;Image of Find Field for Character&#34; /&gt;&lt;br /&gt;
 b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新标签 *ui.control*。&lt;br /&gt;
-  ![Image of Change Field for Character][FM_EG_Change_Char]&lt;/li&gt;
+  &lt;img src=&#34;http://f.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=215541921a950a7b71354ac43ae159a8/48540923dd54564eff05fe9db4de9c82d1584f35.jpg&#34; alt=&#34;Image of Change Field for Character&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;在 Change Styles 对话框中单击 &lt;strong&gt;Change&lt;/strong&gt;。&lt;br /&gt;
 Script Alert 对话框出现，告知用户一共更改了多少个标签实例。示例文件中的 &lt;em&gt;emphasis&lt;/em&gt; 字符已全部更改为 &lt;em&gt;ui.control&lt;/em&gt; 字符。&lt;br /&gt;
 &lt;img src=&#34;http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=6ab5fecccbbf6c81f33728e88c0e8a44/a8ec8a13632762d00134be1ba7ec08fa513dc608.jpg&#34; alt=&#34;Image of Sample Document after 3rd Update&#34; /&gt;&lt;/li&gt;
@@ -117,7 +113,10 @@ Script Alert 对话框出现，告知用户一共更改了多少个标签实例�
 &lt;li&gt;当在书籍中使用 Change Styles，请注意，对话框的 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中可选的所有标签取自书籍中第一个文件，因此，我们要确保书籍中的第一个文件包含所有需要用到的标签。此外，&lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中的标签顺序并非按字母排序，而是按照标签在第一个文件中出现的先后顺序排序的，因此，为了方便查找，建议工作时新建一个示例文件并添加到书籍最上方，该示例文件中含有依次应用了各种标签的示例文本。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[FM_EG_Change_Char]: &lt;a href=&#34;http://f.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=215541921a950a7b71354ac43ae159a8/48540923dd54564eff05fe9db4de9c82d1584f35.jpg&#34;&gt;http://f.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=215541921a950a7b71354ac43ae159a8/48540923dd54564eff05fe9db4de9c82d1584f35.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;测试图片
+![Image of Sample Document after 5th Update][FM_Sample_Document_Updated5]&lt;/p&gt;
+
+&lt;p&gt;[FM_Sample_Document_Updated5]: &lt;a href=&#34;http://g.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=71c5b687cffcc3ceb0c0cd37a275edf9/0d338744ebf81a4c67dad66cd02a6059242da6ae.jpg&#34;&gt;http://g.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=71c5b687cffcc3ceb0c0cd37a275edf9/0d338744ebf81a4c67dad66cd02a6059242da6ae.jpg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
