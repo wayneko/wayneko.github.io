@@ -21,6 +21,9 @@
 
 &lt;p&gt;使用 FrameMaker 写作的小朋友经常会有这样的需求：一段文本已经应用了某种段落标签（Paragraph Tag）或字符标签（Character Tag），现在要改成另一种段落标签或字符标签。&lt;/p&gt;
 
+&lt;p&gt;测试图片
+&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated5.png&#34; alt=&#34;Image of Sample Document after 5th Update&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;例如，原来有个二级标题，段落标签是 &lt;em&gt;h2&lt;/em&gt; ，现在这个二级标题要降为三级标题，需要应用段落标签 &lt;em&gt;h3&lt;/em&gt; 。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
 
 &lt;p&gt;现在问题来了，如果我要更改标签的段落或词语是几十个甚至上百个呢？当对一批旧文档应用新模板时，这是一个典型的需求。手动逐一更改显然是让人无法接受的。但版本 11 及以前的 FrameMaker 并没有批量更改标签的功能。幸运的是，我们可以利用一款 FrameMaker 插件来完成这项工作，这款插件的名字叫做 ChangeStyles。&lt;/p&gt;
@@ -114,7 +117,7 @@ Script Alert 对话框出现，告知用户一共更改了多少个标签实例�
 &lt;/ul&gt;
 
 &lt;p&gt;测试图片
-&lt;img src=&#34;http://g.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=71c5b687cffcc3ceb0c0cd37a275edf9/0d338744ebf81a4c67dad66cd02a6059242da6ae.jpg&#34; alt=&#34;Image of Sample Document after 5th Update&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated5.png&#34; alt=&#34;Image of Sample Document after 5th Update&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
