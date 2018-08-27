@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 威型視界</title>
+    <link>http://www.waynesvision.com/categories/</link>
+    <description>Recent content in Categories on 威型視界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="http://www.waynesvision.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GILT</title>
+      <link>http://www.waynesvision.com/categories/gilt/</link>
+      <pubDate>Thu, 24 Mar 2016 17:56:57 +0800</pubDate>
+      
+      <guid>http://www.waynesvision.com/categories/gilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>http://www.waynesvision.com/categories/movie/</link>
+      <pubDate>Thu, 24 Mar 2016 17:57:08 +0800</pubDate>
+      
+      <guid>http://www.waynesvision.com/categories/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>http://www.waynesvision.com/categories/sports/</link>
+      <pubDate>Thu, 24 Mar 2016 17:57:17 +0800</pubDate>
+      
+      <guid>http://www.waynesvision.com/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeComm</title>
+      <link>http://www.waynesvision.com/categories/tecomm/</link>
+      <pubDate>Fri, 07 Jul 2017 15:06:53 +0800</pubDate>
+      
+      <guid>http://www.waynesvision.com/categories/tecomm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

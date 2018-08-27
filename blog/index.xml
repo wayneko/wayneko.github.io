@@ -7,224 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 07 Jul 2017 15:06:53 +0800</lastBuildDate>
-    <atom:link href="http://www.waynesvision.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.waynesvision.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>创作表情符号的艺术与科学 The Art &amp; Science of Making Emoji</title>
-      <link>http://www.waynesvision.com/2017/07/07/art-and-science-of-emoji</link>
+      <link>http://www.waynesvision.com/2017/07/07/art-and-science-of-emoji/</link>
       <pubDate>Fri, 07 Jul 2017 15:06:53 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2017/07/07/art-and-science-of-emoji</guid>
-      <description>
-
-&lt;div style=&#39;margin:0 auto;width:0px;height:0px;overflow:hidden;&#39;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201707/Emoji_Thumbnail.png&#34; width=&#39;400&#39;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/fca08541108be4ff1578618c5ce2fce102cd0b95/201707/Emoji_Banner.png&#34; alt=&#34;Image of Emojis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;https://blogs.adobe.com/creativecloud/the-art-science-of-making-emoji/&#34;&gt;https://blogs.adobe.com/creativecloud/the-art-science-of-making-emoji/&lt;/a&gt;&lt;/em&gt;
-&lt;em&gt;Translated by Wayne&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;图像则可以激活解读情绪和切身体会交流内容的大脑区域，表情符号就是一个绝佳的例子。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;表情符号：它们就是在短信、微博和邮件里随处可见的字符。但是，Adobe 的 Paul D. Hunt 指出，表情符号可不是天上掉下来的。Paul D. Hunt 是 Adobe 的字体设计师和字体开发者，为公司的产品和平台设计开发字体家族和字体。除此之外，Paul 还在 Unicode 的表情符号下属委员会任职，这个下属委员会是 Unicode 协会的关键组成部分，负责表情符号的标准化和集成的监管工作。&lt;/p&gt;
-
-&lt;p&gt;“我们在屏幕上看到的每个字母，背后都有一个对应的数字编码。表情符号也是如此。”Paul 指出。他还说，将这些字符加入 Unicode 标准的初衷，是为了“让日本手机运营商之间更好地进行信息交换”，“以及让希望在自己的产品和服务中使用表情符号的公司，例如 Google 和 Apple 能够读取表情符号。”&lt;/p&gt;
-
-&lt;h1 id=&#34;表情符号集成流程:f9d16952efb4faca24a7ea312d7589b1&#34;&gt;表情符号集成流程&lt;/h1&gt;
-
-&lt;p&gt;如今，任何人都可以将表情符号提交给 Unicode 协会考虑是否采用，但道路十分崎岖。“这个过程很难熬，”Paul 说道。“你必须说服他们，让他们相信这款表情符号一定会流行。”&lt;/p&gt;
-
-&lt;p&gt;Paul 就在第一线坐镇。他不仅是下属委员会中负责审查和批准新表情符号的成员，而且他自己最近也提交了一个关于将橙色的心形集成到标准中的议案。“如果我们现在打开手机，我们可以找到各种颜色的心形——红的、黄的、绿的、蓝的和紫的，但唯独缺了橙色的。我觉得这套表情符号不完整，因为现有的心形凑不成完整的彩虹。”&lt;/p&gt;
-
-&lt;p&gt;发现这个漏洞后，Paul 将自己的建议写了下来。“在我的文章里，我谈到了为什么必须有一套颜色完整的心形，并拿出了证据来证明橙色的心形不仅会有人用，还会大受欢迎。我研究了网络搜索、博客和推特上的热门话题，发现大家都在寻找橙色的心形表情符号。”&lt;/p&gt;
-
-&lt;h1 id=&#34;创作流程:f9d16952efb4faca24a7ea312d7589b1&#34;&gt;创作流程&lt;/h1&gt;
-
-&lt;p&gt;获得协会批准后，新的表情符号字符就需要标准化。这就是 Paul 的创作流程的起点。就像创作新字体或字型时一样，Paul 要制作新表情符号字符的黑白图像。“设计新的表情符号字形时，我会把表情符号当做介于字母和图片之间的某种东西，”他说。“我竭力采用接近图标的风格，因为这种风格十分简约，只保留了最基本的要素，因此十分清晰易懂。字体设计中也有类似的情况：我们会考虑最终的用途，并据此来进行设计。”&lt;/p&gt;
-
-&lt;p&gt;Paul 说，就表情符号而言，它的主要使用场合是在网上。“我创作的表情符号十分简约，大家一看就能明白它的意思。但它仍然留给了大家解读的空间。”&lt;/p&gt;
-
-&lt;p&gt;当创意人士根据自己的用途来开发彩色版本时，“他们就可以根据自己采用的视觉风格来自由地改造表情符号，”他说。“所以我会思考橙色心形、玻璃杯、蛋或者鱿鱼最具标志性的版本是什么样的。”他还说，这些表情符号字符最近已经被加入或者即将被加入标准——而 Unicode 图表中的黑白代表字形就是 Paul 的作品。&lt;/p&gt;
-
-&lt;h1 id=&#34;创作自定义表情符号图像:f9d16952efb4faca24a7ea312d7589b1&#34;&gt;创作自定义表情符号图像&lt;/h1&gt;
-
-&lt;p&gt;除了这些标准化字符（总数已接近 1,800 个）之外，各大品牌、营销人员和创意人士往往都会开发自己的“ZWJ”序列。这些“零宽连字（Zero Width Joiner）”序列“将两个或以上表情符号连成一串，形成能够表达新概念的新表情符号。”他举了著名的“忍者猫”的例子，这是 Microsoft 使用的一款 ZWJ 表情符号字符。“Windows 用户能够使用这些忍者猫表情符号，但至于其他表情符号制定者会不会采用则存疑，”Paul 告诉我们。“我把它们称为‘表情符号连字’。它们并非 Unicode 标准中的正式成员，但 Unicode 的确在这些表情符号连字中存放了一些文字说明供大众参考。”&lt;/p&gt;
-
-&lt;p&gt;随着表情符号标准的壮大，越来越多的字符被纳入其中，同时很多人在开发自己的 ZWJ 序列，Creative Cloud 的重要性日益凸显。“Illustrator 是这个领域的顶尖工具，”Paul 说道，“我认为，如果要绘制自己的表情符号图像，那么 Creative Cloud 有助于你将其融入到作品和任何其他应用程序中。但是，如果你想使用或开发表情符号字体，或要部署到网上的表情符号集，那么就要另当别论了，我们也还在努力研究中。”&lt;/p&gt;
-
-&lt;p&gt;但是，Adobe 正在引领潮流。“我们十分清楚，大家喜欢用表情符号，我们一直在努力提供让他们可以在交流中使用表情符号的更好、更简单的方法。我们也在努力帮助大家更轻松地创作和使用表情符号字体和表情符号集。”&lt;/p&gt;
-
-&lt;h1 id=&#34;表情符号的未来:f9d16952efb4faca24a7ea312d7589b1&#34;&gt;表情符号的未来&lt;/h1&gt;
-
-&lt;p&gt;在 Paul 看来，他不认为表情符号会在短时间内有巨大变化。他认为这些字符代表着全球创意和交流方式的剧变。“我们的主要学习方式有两种：一种偏重于细节，一种偏重于全局。在我们试图理解周围的世界时，我们的大脑会同时进行这两方面的工作。”他指出，书面语言只激活了我们大脑的一部分——即更具“系统性认知模型”特点的那个部分。&lt;/p&gt;
-
-&lt;p&gt;表情符号打破了障碍。“我认为表情符号能提供点面结合的交流和认知方式，只凭语言是无法实现这一点的。有了表情符号，我们就能同时使用语言和图像，而且频率很高。自从字母问世以来，交流中的这种平衡就被打破了，而表情符号有助于重塑这种丢失已久的平衡。书面语言主要由包含系统化要素的大脑区域处理。图像则可以激活解读情绪和切身体会交流内容的大脑区域，表情符号就是一个绝佳的例子。”&lt;/p&gt;
-
-&lt;p&gt;鉴于表情符号蕴含的力量，Paul 认为在接下来的日子里，它们将在全球创意活动和交流中发挥越来越重要的作用。“我希望表情符号成为这种更丰富的交流形式，”他表示。“就像我们的语言有几千种字体一样，我希望有一天也能有同样丰富多样的表情符号字体和表情符号集供大家交流。我认为，只要我们接纳表情符号，它们就能切实地丰富我们的交流。”&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2017/07/07/art-and-science-of-emoji/</guid>
+      <description>Source: https://blogs.adobe.com/creativecloud/the-art-science-of-making-emoji/ Translated by Wayne 图像则可以激活解读情绪和切身体会交流内容的大脑区域，表情符号就是一个绝佳的例子。 表情符号：它们就是在短信、微博和邮件里随处可见的字</description>
     </item>
     
     <item>
       <title>FrameMaker 插件 ChangeStyles 的安装和使用</title>
-      <link>http://www.waynesvision.com/2016/04/05/fm-plugin-changestyles</link>
+      <link>http://www.waynesvision.com/2016/04/05/fm-plugin-changestyles/</link>
       <pubDate>Tue, 05 Apr 2016 13:40:59 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/04/05/fm-plugin-changestyles</guid>
-      <description>
-
-&lt;div style=&#39;margin:0 auto;width:0px;height:0px;overflow:hidden;&#39;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Logo.png&#34; width=&#39;400&#39;&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&#34;前言:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;前言&lt;/h1&gt;
-
-&lt;p&gt;使用 FrameMaker 写作的小朋友经常会有这样的需求：一段文本已经应用了某种段落标签（Paragraph Tag）或字符标签（Character Tag），现在要改成另一种段落标签或字符标签。&lt;/p&gt;
-
-&lt;p&gt;例如，原来有个二级标题，段落标签是 &lt;em&gt;h2&lt;/em&gt; ，现在这个二级标题要降为三级标题，需要应用段落标签 &lt;em&gt;h3&lt;/em&gt; 。我只需要将光标放在二级标题之中，然后单击 Paragraph Tag Catalog（段落标签目录）面板中的 &lt;em&gt;h3&lt;/em&gt; 标签就行了。又如，原来有一个词语应用了斜体字符标签，现在要改成粗体，只需要选中这个词语，然后在 Character Tag Catalog（字符标签目录）面板中单击粗体对应的字符标签即可。&lt;/p&gt;
-
-&lt;p&gt;现在问题来了，如果我们要更改标签的段落或词语是几十个甚至上百个呢？当对一批旧文档应用新模板时，这是一个典型的需求。手动逐一更改显然是让人无法接受的。但版本 11 及以前的 FrameMaker 并没有批量更改标签的功能。幸运的是，我们可以利用一款 FrameMaker 插件来完成这项工作，这款插件的名字叫做 ChangeStyles。&lt;/p&gt;
-
-&lt;h1 id=&#34;安装-changestyles:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;安装 ChangeStyles&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;下载 &lt;a href=&#34;https://github.com/wayneko/images/raw/master/201604/ChangeStyles2.zip&#34;&gt;ChangeStyles&lt;/a&gt;（文件大小：74KB）。&lt;br /&gt;
-ChangeStyles2.zip 文件下载到电脑上。&lt;/li&gt;
-&lt;li&gt;解压 ChangeStyles2.zip 到当前位置。&lt;br /&gt;
-解压后出现名为 ChangeStyles2 的文件夹。&lt;/li&gt;
-&lt;li&gt;将文件夹 ChangeStyles2 中的 ChangeStyleMenu.jsx 和子文件夹 ChangeStyle 拷贝到以下文件夹：&lt;br /&gt;
-&lt;code&gt;C:\Program Files (x86)\Adobe\AdobeFrameMaker11\startup&lt;/code&gt;（将此路径替换为你电脑上的路径）&lt;/li&gt;
-&lt;li&gt;安装完毕。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;验证安装结果:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;验证安装结果&lt;/h1&gt;
-
-&lt;p&gt;要验证 ChangeStyles 插件是否安装成功，请启动 FrameMaker，选择 &lt;strong&gt;File &amp;gt; Utilities&lt;/strong&gt;，如果能看到 &lt;strong&gt;Change Styles&lt;/strong&gt; 命令，就表示安装成功。&lt;/p&gt;
-
-&lt;h1 id=&#34;使用-changestyles:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;使用 ChangeStyles&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;启动 FrameMaker。选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Menu_ChangeStyles.png&#34; alt=&#34;Image of Change Styles Menu&#34; /&gt;&lt;br /&gt;
-Change Styles 对话框出现。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_DB_ChangeStyles.png&#34; alt=&#34;Image of Change Styles Dialog Box&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Styles 区块中，按需采取以下操作：&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;如需批量更改段落样式，选择 &lt;strong&gt;Para Style&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;如需批量更改字符样式，选择 &lt;strong&gt;Char Style&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;如需批量更改表格样式，选择 &lt;strong&gt;Table Style&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Change From 区块中：&lt;br /&gt;
-a. 从 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中选择要更改的标签。&lt;br /&gt;
-b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新标签。&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框中单击 &lt;strong&gt;Change&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;用法示例:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;用法示例&lt;/h1&gt;
-
-&lt;p&gt;本示例将演示批量更改段落标签和字符标签。示例文件中原有两个二级标题和两个三级标题，现需要在一级标题和二级标题之间插入一个级别，因此原来的二级标题和三级标题都需要降一级。另外，示例文件中斜体字符应用了 &lt;em&gt;emphasis&lt;/em&gt; 字符标签，现需要全部更改为粗体字符标签 &lt;strong&gt;ui.control&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;打开示例文件。&lt;br /&gt;
-示例文件显示在编辑窗口中。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document.png&#34; alt=&#34;Image of Sample Document&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
-Change Styles 对话框出现。&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Change From 区块中：&lt;br /&gt;
-a. 从 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中选择要更改的标签 &lt;em&gt;heading.3&lt;/em&gt; 。&lt;br /&gt;
-  &lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_EG_Find.png&#34; alt=&#34;Image of Find Field&#34; /&gt;&lt;br /&gt;
-b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新标签 &lt;em&gt;heading.4&lt;/em&gt; 。&lt;br /&gt;
-  &lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_EG_Change.png&#34; alt=&#34;Image of Change Field&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框中单击 &lt;strong&gt;Change&lt;/strong&gt;。&lt;br /&gt;
-Script Alert 对话框出现，告知用户一共更改了多少个标签实例。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_M_ScriptAlert.png&#34; alt=&#34;Image of Script Alert Message&#34; /&gt;&lt;br /&gt;
-示例文件中的三级标题已全部更改为四级标题。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated1.png&#34; alt=&#34;Image of Sample Document after 1st Update&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Script Alert 对话框中单击 &lt;strong&gt;OK&lt;/strong&gt;，然后选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
-Change Styles 对话框出现。&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Change From 区块中：&lt;br /&gt;
-a. 从 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中选择要更改的标签 &lt;em&gt;heading.2&lt;/em&gt; 。&lt;br /&gt;
-b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新标签 &lt;em&gt;heading.3&lt;/em&gt; 。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框中单击 &lt;strong&gt;Change&lt;/strong&gt;。&lt;br /&gt;
-Script Alert 对话框出现，告知用户一共更改了多少个标签实例。示例文件中的二级标题已全部更改为三级标题。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated2.png&#34; alt=&#34;Image of Sample Document after 2nd Update&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Script Alert 对话框中单击 &lt;strong&gt;OK&lt;/strong&gt;，然后选择 &lt;strong&gt;File &amp;gt; Utilities &amp;gt; Change Styles&lt;/strong&gt;。&lt;br /&gt;
-Change Styles 对话框出现。&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Styles 区块中，选择 &lt;strong&gt;Char Style&lt;/strong&gt;。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_DB_ChangeStyles_CharStyle.png&#34; alt=&#34;Image of Change Styles Dialog Box for Character Style&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框的 Change From 区块中：&lt;br /&gt;
-a. 从 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中选择要更改的标签 &lt;em&gt;emphasis&lt;/em&gt; 。&lt;br /&gt;
-  &lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_EG_Find_Char.png&#34; alt=&#34;Image of Find Field for Character&#34; /&gt;&lt;br /&gt;
-b. 从 &lt;strong&gt;Change&lt;/strong&gt; 下拉菜单中选择要应用的新标签 &lt;em&gt;ui.control&lt;/em&gt; 。&lt;br /&gt;
-  &lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_EG_Change_Char.png&#34; alt=&#34;Image of Change Field for Character&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;在 Change Styles 对话框中单击 &lt;strong&gt;Change&lt;/strong&gt;。&lt;br /&gt;
-Script Alert 对话框出现，告知用户一共更改了多少个标签实例。示例文件中的 &lt;em&gt;emphasis&lt;/em&gt; 字符已全部更改为 &lt;strong&gt;ui.control&lt;/strong&gt; 字符。&lt;br /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated3.png&#34; alt=&#34;Image of Sample Document after 3rd Update&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;对 New Heading 1.1 应用段落标签 &lt;em&gt;heading.2&lt;/em&gt; 。&lt;br /&gt;
-  任务完成。&lt;br /&gt;
-  &lt;img src=&#34;https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Sample_Document_Updated4.png&#34; alt=&#34;Image of Sample Document after 4th Update&#34; /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;技巧与提示:bf1d3436adf0f64016ce74d8512ac22b&#34;&gt;技巧与提示&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;在打开的文件中使用 Change Styles 时，作用范围是当前文件。在打开的书籍中使用 Change Styles 时，作用范围是当前书籍中的所有文件。&lt;/li&gt;
-&lt;li&gt;当在书籍中使用 Change Styles，请注意，对话框的 &lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中可选的所有标签取自书籍中第一个文件，因此，我们要确保书籍中的第一个文件包含所有需要用到的标签。此外，&lt;strong&gt;Find&lt;/strong&gt; 下拉菜单中的标签顺序并非按字母排序，而是按照标签在第一个文件中出现的先后顺序排序的，因此，为了方便查找，建议工作时新建一个示例文件并添加到书籍最上方，该示例文件中含有依次应用了各种标签的示例文本。&lt;/li&gt;
-&lt;li&gt;当需要对标题进行升级或降级时，要注意操作次序。例如，在上方的使用示例中，如果先将二级标题替换为三级标题，那么新的三级标题就无法和原有的三级标题区分开，继而导致接下来无法正确地将原有的三级标题替换成四级标题。同理，如果要对标题进行升级，最好按照从高到低的顺序进行。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/04/05/fm-plugin-changestyles/</guid>
+      <description>前言 使用 FrameMaker 写作的小朋友经常会有这样的需求：一段文本已经应用了某种段落标签（Paragraph Tag）或字符标签（Character Tag），</description>
     </item>
     
     <item>
       <title>关于体育 About Sports</title>
-      <link>http://www.waynesvision.com/2016/03/24/about-sports</link>
+      <link>http://www.waynesvision.com/2016/03/24/about-sports/</link>
       <pubDate>Thu, 24 Mar 2016 17:57:17 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/03/24/about-sports</guid>
-      <description>&lt;p&gt;本类别中的文章与体育有关。&lt;/p&gt;
-
-&lt;p&gt;Posts in this category are about sports.&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/03/24/about-sports/</guid>
+      <description>本类别中的文章与体育有关。 Posts in this category are about sports.</description>
     </item>
     
     <item>
       <title>关于电影 About Movies</title>
-      <link>http://www.waynesvision.com/2016/03/24/about-movie</link>
+      <link>http://www.waynesvision.com/2016/03/24/about-movie/</link>
       <pubDate>Thu, 24 Mar 2016 17:57:08 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/03/24/about-movie</guid>
-      <description>&lt;p&gt;本类别中的文章与电影有关。&lt;/p&gt;
-
-&lt;p&gt;Posts in this category are about movies.&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/03/24/about-movie/</guid>
+      <description>本类别中的文章与电影有关。 Posts in this category are about movies.</description>
     </item>
     
     <item>
       <title>关于GILT / About GILT</title>
-      <link>http://www.waynesvision.com/2016/03/24/about-gilt</link>
+      <link>http://www.waynesvision.com/2016/03/24/about-gilt/</link>
       <pubDate>Thu, 24 Mar 2016 17:56:57 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/03/24/about-gilt</guid>
-      <description>&lt;p&gt;本类别中的文章与 GILT 有关。&lt;/p&gt;
-
-&lt;p&gt;Posts in this category are about GILT.&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/03/24/about-gilt/</guid>
+      <description>本类别中的文章与 GILT 有关。 Posts in this category are about GILT.</description>
     </item>
     
     <item>
       <title>关于技术传播 About Technical Communication</title>
-      <link>http://www.waynesvision.com/2016/03/24/about-tecomm</link>
+      <link>http://www.waynesvision.com/2016/03/24/about-tecomm/</link>
       <pubDate>Thu, 24 Mar 2016 17:56:47 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/03/24/about-tecomm</guid>
-      <description>&lt;p&gt;本类别中的文章与技术传播有关。&lt;/p&gt;
-
-&lt;p&gt;Posts in this category are about technical communication.&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/03/24/about-tecomm/</guid>
+      <description>本类别中的文章与技术传播有关。 Posts in this category are about technical communication.</description>
     </item>
     
   </channel>

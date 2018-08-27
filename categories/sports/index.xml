@@ -7,18 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 24 Mar 2016 17:57:17 +0800</lastBuildDate>
-    <atom:link href="http://www.waynesvision.com/categories/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.waynesvision.com/categories/sports/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>关于体育 About Sports</title>
-      <link>http://www.waynesvision.com/2016/03/24/about-sports</link>
+      <link>http://www.waynesvision.com/2016/03/24/about-sports/</link>
       <pubDate>Thu, 24 Mar 2016 17:57:17 +0800</pubDate>
       
-      <guid>http://www.waynesvision.com/2016/03/24/about-sports</guid>
-      <description>&lt;p&gt;本类别中的文章与体育有关。&lt;/p&gt;
-
-&lt;p&gt;Posts in this category are about sports.&lt;/p&gt;
-</description>
+      <guid>http://www.waynesvision.com/2016/03/24/about-sports/</guid>
+      <description>本类别中的文章与体育有关。 Posts in this category are about sports.</description>
     </item>
     
   </channel>
